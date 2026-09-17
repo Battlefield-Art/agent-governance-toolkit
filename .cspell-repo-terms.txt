@@ -928,6 +928,7 @@ sanitisation
 sanitised
 sarif
 sboms
+sbyte
 scak
 schemaversion
 scikit
