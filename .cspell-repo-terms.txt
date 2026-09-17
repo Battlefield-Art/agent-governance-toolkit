@@ -1188,3 +1188,17 @@ karimad
 قومي
 GPAI
 Harmonised
+
+# --- audit_backends.py / govern.py fail-closed-error comment terms (PR #3916) ---
+CREAT
+ELOOP
+ENOSPC
+EPERM
+FCHMOD
+WRONLY
+containerised
+fchmod
+fileno
+fromhex
+fstat
+serialisation
