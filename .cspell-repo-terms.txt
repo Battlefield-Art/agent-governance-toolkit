@@ -578,6 +578,7 @@ gomod
 governancekernel
 governancepolicy
 governorate
+granit
 grpc
 gunicorn
 gvisor
@@ -670,6 +671,7 @@ lookbehind
 liamcrumm
 libagent
 libc
+libyaml
 licen
 lifecycles
 linkcheck
@@ -760,6 +762,7 @@ neutralised
 neutralises
 neutralising
 newpartner
+newtype
 newurl
 nfiu
 nmap
@@ -948,6 +951,7 @@ sandboxing
 sandboxprovider
 sanitisation
 sanitised
+saphyr
 sarif
 sboms
 sbyte
