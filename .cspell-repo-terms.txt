@@ -51,6 +51,10 @@ AILLM
 AKIA
 AKIAFAKE
 AKIAFAKEFORTEST
+AKIAAAAAAAAAAAAAAAAA
+AKIAIOSFODNN
+AKIAXXXX
+fooghp
 AKIDEXAMPLE
 APIM
 APPI
@@ -659,6 +663,10 @@ langflow
 langgenius
 lawcontinue
 levelname
+lookahead
+lookaround
+lookarounds
+lookbehind
 liamcrumm
 libagent
 libc
