@@ -1,8 +1,15 @@
+# --- Conversation guardian Unicode normalization terms ---
+Bidi
+Halfwidth
+homoglyphs
+ignorables
+invisibles
+leetspeak
+LHMQ
+maketrans
+midword
+NFKD
 Upadhyay
-
-
-
-
 
 # --- ACS / crypto terms ---
 # --- Additional West/North Africa terms flagged by cspell ---
